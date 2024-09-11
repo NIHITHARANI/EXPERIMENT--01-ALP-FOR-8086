@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : B.NIHITHA RANI 
+Roll no : 212223040131
+Date of experiment : 11-09-2024
 
 
 
